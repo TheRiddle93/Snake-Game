@@ -10,6 +10,8 @@ var head;
 var apple;
 var ball;
 
+const yes;
+
 var dots;
 var apple_x;
 var apple_y;
@@ -20,7 +22,7 @@ var upDirection = false;
 var downDirection = false;
 var inGame = true;    
 
-const DOT_SIZE = 10;
+const DOT_SIZE = 100;
 const ALL_DOTS = 900;
 const MAX_RAND = 29;
 const DELAY = 140;
